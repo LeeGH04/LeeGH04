@@ -2,12 +2,10 @@
 
 ## Hi there 👋
 
-<div align="center">
+<div align="left">
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=radical)](https://github.com/LeeGH04)
 [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=LeeGH04&theme=radical)](https://github.com/LeeGH04)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LeeGH04&theme=onedark&row=1)](https://github.com/LeeGH04)
 
 ### 🛠 Tech Stack
 
@@ -24,7 +22,7 @@
 
 ![Snake animation](https://github.com/LeeGH04/LeeGH04/blob/output/github-contribution-grid-snake.svg)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=LeeGH04.LeeGH04)](https://github.com/LeeGH04)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LeeGH04.LeeGH04)
 
 </div>
 
