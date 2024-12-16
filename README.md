@@ -1,8 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LeeGH04&fontSize=90)
+
 ## Hi there 👋
 
+<div align="center">
+  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=radical)](https://github.com/LeeGH04)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=LeeGH04&theme=radical)](https://github.com/LeeGH04)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact)](https://github.com/LeeGH04)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LeeGH04&theme=onedark&row=1)](https://github.com/LeeGH04)
 
 ### 🛠 Tech Stack
 
@@ -13,6 +18,15 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact&theme=radical)](https://github.com/LeeGH04)
+
+![Snake animation](https://github.com/LeeGH04/LeeGH04/blob/output/github-contribution-grid-snake.svg)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=LeeGH04.LeeGH04)](https://github.com/LeeGH04)
+
+</div>
 
 <!--
 **LeeGH04/LeeGH04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
