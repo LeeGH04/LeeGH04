@@ -1,11 +1,18 @@
 ## Hi there 👋
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=radical)](https://github.com/LeeGH04)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact)](https://github.com/LeeGH04)
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 <!--
 **LeeGH04/LeeGH04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=radical)](https://github.com/LeeGH04)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
