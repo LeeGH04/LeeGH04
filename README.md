@@ -3,7 +3,6 @@
 <div align="left">
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=radical)](https://github.com/LeeGH04)
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=LeeGH04&theme=radical)](https://github.com/LeeGH04)
 
 ### 🛠 Tech Stack
 
