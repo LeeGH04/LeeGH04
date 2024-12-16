@@ -17,7 +17,7 @@
 ### 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact&theme=radical)](https://github.com/LeeGH04)
 
-![Snake animation](https://github.com/LeeGH04/LeeGH04/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/LeeGH04/LeeGH04/blob/main/dist/github-snake.svg)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LeeGH04.LeeGH04)
 
