@@ -4,11 +4,13 @@
 <div align="center">
 
 
-<img width="70%" align="left" src="https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=github_dark"/>
-
-<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact&theme=github_dark"/>
+<img width="60%" align="left" src="https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=github_dark"/>
+<b>👨‍💻 LeeGH04</b>
+<img width="37%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact&theme=github_dark"/>
 
 [//]: # (<h7><b>👨‍💻 LeeGH04</b></h7>)
+
+
 ### ⭐ Main Skills ⭐
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
