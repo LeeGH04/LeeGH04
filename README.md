@@ -3,20 +3,12 @@
 
 <div align="center">
 
-<table>
-<tr>
-  <td width="50%" align="center">
-    <h7><b>👨‍💻 LeeGH04</b></h7>
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  </td>
-  <td width="50%" align="center">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact&theme=github_dark"/>
-  </td>
-</tr>
-</table>
 
-[//]: # ([![GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=github_dark&#41;]&#40;https://github.com/LeeGH04&#41;)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=github_dark"/>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact&theme=github_dark"/>
+
+[//]: # (<h7><b>👨‍💻 LeeGH04</b></h7>)
 ### ⭐ Main Skills ⭐
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
