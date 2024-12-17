@@ -4,9 +4,17 @@
 <div align="center">
 
 
-<img width="56%" align="left" src="https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=github_dark"/>
-<b>👨‍💻 LeeGH04</b>
-<img width="37%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact&theme=github_dark"/>
+<table>
+<tr>
+  <td width="50%">
+    <b>👨‍💻 LeeGH04</b>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  </td>
+  <td width="50%">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact&theme=github_dark"/>
+  </td>
+</tr>
+</table>
 
 [//]: # (<h7><b>👨‍💻 LeeGH04</b></h7>)
 
@@ -58,7 +66,7 @@
 
 ### 📫 Contact 📫
 <a href="mailto:git_hub_i@icloud.com">
-   <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"/>
+   <img src="https://img.shields.io/badge/iCloud Mail-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/g.__.h_04">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
