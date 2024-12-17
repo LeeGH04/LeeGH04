@@ -6,7 +6,7 @@
 
 <img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=github_dark"/>
 <b>👨‍💻 LeeGH04</b>
-<img width="37%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact&theme=github_dark"/>
+<img width="30%"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact&theme=github_dark"/>
 
 [//]: # (<h7><b>👨‍💻 LeeGH04</b></h7>)
 
