@@ -16,8 +16,7 @@
 </tr>
 </table>
 
-[//]: # (<h7><b>👨‍💻 LeeGH04</b></h7>)
-
+<hr>
 
 ### ⭐ Main Skills ⭐
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
