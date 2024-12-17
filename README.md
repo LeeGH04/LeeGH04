@@ -3,18 +3,17 @@
 
 <div align="center">
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- 왼쪽 섹션 -->
-  <div style="width: 48%">
-<h7><b>👨‍💻LeeGH04</b></h7>
+<table>
+<tr>
+  <td width="50%" align="center">
+    <h7><b>👨‍💻 LeeGH04</b></h7>
     <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  </div>
-
-  <!-- 오른쪽 섹션 -->
-  <div style="width: 48%">
-    <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact&theme=github_dark"/>
-  </div>
-</div>
+  </td>
+  <td width="50%" align="center">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGH04&layout=compact&theme=github_dark"/>
+  </td>
+</tr>
+</table>
 
 [//]: # ([![GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=LeeGH04&show_icons=true&theme=github_dark&#41;]&#40;https://github.com/LeeGH04&#41;)
 
